@@ -644,12 +644,8 @@ public class CallDetailActivity extends Activity implements ProximitySensorAware
         startActivity(new Intent(Intent.ACTION_DIAL, CallUtil.getCallUri(mNumber)));
     }
 
-    public void onMenuBlacklist(MenuItem menuItem) {
-        if (mBlackListed) {
-            mContactInfoHelper.removeNumberFromBlacklist(mNumber);
-        } else {
-            mContactInfoHelper.addNumberToBlacklist(mNumber);
-        }
+    public void onMenuAddToBlacklist(MenuItem menuItem) {
+        mContactInfoHelper.addNumberToBlacklist(mNumber);
     }
 
     public void onMenuTrashVoicemail(MenuItem menuItem) {

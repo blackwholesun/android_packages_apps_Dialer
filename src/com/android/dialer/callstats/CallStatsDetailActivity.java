@@ -297,12 +297,8 @@ public class CallStatsDetailActivity extends Activity {
         startActivity(new Intent(Intent.ACTION_DIAL, CallUtil.getCallUri(mNumber)));
     }
 
-    public void onMenuBlacklist(MenuItem menuItem) {
-        if (mBlackListed) {
-            mContactInfoHelper.removeNumberFromBlacklist(mNumber);
-        } else {
-            mContactInfoHelper.addNumberToBlacklist(mNumber);
-        }
+    public void onMenuAddToBlacklist(MenuItem menuItem) {
+        mContactInfoHelper.addNumberToBlacklist(mNumber);
     }
 
     private void onHomeSelected() {
