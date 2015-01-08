@@ -44,9 +44,7 @@
   <string name="call_stats_sort_by_duration">Urut sesuai durasi panggilan</string>
   <string name="call_stats_sort_by_count">Urut sesuai jumlah panggilan</string>
   <string name="menu_add_to_blacklist">Tambahkan ke daftar hitam</string>
-  <string name="toast_added_to_blacklist"><xliff:g id="number">%s</xliff:g> ditambahkan ke daftar hitam</string>
-  <string name="menu_delete_from_blacklist">Hapus dari daftar hitam</string>
-  <string name="toast_deleted_from_blacklist"><xliff:g id="number">%s</xliff:g> dihapus dari daftar hitam</string>
+  <string name="toast_added_to_blacklist"><xliff:g id="number">%s</xliff:g> ditambahkan ke blacklist</string>
   <string name="nearby_places">Tempat terdekat</string>
   <string name="people">Orang</string>
   <string name="start_call_playback">Putar rekaman</string>
@@ -61,7 +59,7 @@
   <string name="speed_dial_replace">Ganti</string>
   <string name="speed_dial_delete">Hapus</string>
   <string name="speed_dial_unassigned_dialog_title">Tombol belum ditetapkan</string>
-  <string name="speed_dial_unassigned_dialog_message">Tidak ada kontak panggil cepat yang ditetapkan ke tombol angka \'<xliff:g id="number">%s</xliff:g>\'. Apakah Anda ingin menetapkan sebuah kontak sekarang?</string>
+  <string name="speed_dial_unassigned_dialog_message">Tidak ada tindakan panggilan cepat ditugaskan untuk tombol angka \'<xliff:g id="angka">%s</xliff:g>\'. Apakah Anda ingin menentukan sebuah tindakan sekarang?</string>
   <string name="dialog_speed_dial_airplane_mode_message">"Untuk menggunakan panggilan cepat, pertama matikan mode Pesawat."</string>
   <string name="msim_ime_dialog_title">Identifikasi perangkat</string>
   <string name="multi_sim_slot_name">SIM <xliff:g id="index">%d</xliff:g></string>

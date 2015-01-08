@@ -45,8 +45,6 @@
   <string name="call_stats_sort_by_count">Ordena per nombre de trucades</string>
   <string name="menu_add_to_blacklist">Afegeix a la llista negra</string>
   <string name="toast_added_to_blacklist"><xliff:g id="number">%s</xliff:g> afegit a la llista negra</string>
-  <string name="menu_delete_from_blacklist">Esborra de la llista negra</string>
-  <string name="toast_deleted_from_blacklist"><xliff:g id="number">%s</xliff:g> s\'ha esborrat de la llista negra</string>
   <string name="nearby_places">Llocs propers</string>
   <string name="people">Persones</string>
   <string name="start_call_playback">Reprodueix gravació</string>
@@ -61,7 +59,7 @@
   <string name="speed_dial_replace">Substitueix</string>
   <string name="speed_dial_delete">Esborra</string>
   <string name="speed_dial_unassigned_dialog_title">Tecla no assignada</string>
-  <string name="speed_dial_unassigned_dialog_message">No hi cap contacte assignat amb trucada ràpida a la tecla número \'<xliff:g id="number">%s</xliff:g>\'. Vols assignar ara un contacte?</string>
+  <string name="speed_dial_unassigned_dialog_message">No hi ha una acció de trucada ràpida assignada a la tecla número \'<xliff:g id="number">%s</xliff:g>\'. Vols assignar una acció ara?</string>
   <string name="dialog_speed_dial_airplane_mode_message">"Per utilitzar la trucada ràpida, primer has d'apagar el mode avió."</string>
   <string name="msim_ime_dialog_title">Identificador del dispositiu</string>
   <string name="multi_sim_slot_name">SIM <xliff:g id="index">%d</xliff:g></string>

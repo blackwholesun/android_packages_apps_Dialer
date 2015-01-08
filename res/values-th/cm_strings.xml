@@ -45,8 +45,6 @@
   <string name="call_stats_sort_by_count">เรียงตามจำนวนครั้งการโทร</string>
   <string name="menu_add_to_blacklist">เพิ่มไปยังบัญชีดำ</string>
   <string name="toast_added_to_blacklist"><xliff:g id="number"> %s</xliff:g> เพิ่มไปยังบัญชีดำ</string>
-  <string name="menu_delete_from_blacklist">ลบออกจากบัญชีดำ</string>
-  <string name="toast_deleted_from_blacklist"><xliff:g id="number"> %s</xliff:g> ถูกลบออกจากบัญชีดำ</string>
   <string name="nearby_places">สถานใกล้เคียง</string>
   <string name="people">ผู้คน</string>
   <string name="start_call_playback">เล่นบันทึก</string>
@@ -61,7 +59,7 @@
   <string name="speed_dial_replace">แทน​ที่</string>
   <string name="speed_dial_delete">ลบ</string>
   <string name="speed_dial_unassigned_dialog_title">ไม่ได้ระบุปุ่ม</string>
-  <string name="speed_dial_unassigned_dialog_message">ไม่มีทางลัดถูกกำหนดไว้ที่หมายเลข \'<xliff:g id="number">%s</xliff:g>\' คุณต้องการสร้างทางลัดหรือไม่</string>
+  <string name="speed_dial_unassigned_dialog_message">ไม่ได้ตั้งการโทรอย่างรวดเร็วไว้บนปุ่ม \'<xliff:g id="number">%s</xliff:g>\' คุณต้องการตั้งเดี๋ยวนี้?</string>
   <string name="dialog_speed_dial_airplane_mode_message">"เพื่อใช้การโทรอย่างรวดเร็ว, ต้องปิดโหมดเครื่องบินก่อน"</string>
   <string name="msim_ime_dialog_title">รหัสอุปกรณ์</string>
   <string name="multi_sim_slot_name">ซิม<xliff:g id="index">%d</xliff:g></string>

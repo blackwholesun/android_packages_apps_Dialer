@@ -85,10 +85,8 @@ public class PhoneCallDetailsHelper {
         // Display the icon for the last call sub.
         if (MSimTelephonyManager.getDefault().isMultiSimEnabled()) {
             views.subIconView.setVisibility(View.VISIBLE);
-            if (details.subscription >= 0) {
-                views.subIconView.setImageDrawable(
-                        DialtactsActivity.getMultiSimIcon(mContext, details.subscription));
-            }
+            views.subIconView.setImageDrawable(
+                    DialtactsActivity.getMultiSimIcon(mContext, details.subscription));
         } else {
             views.subIconView.setVisibility(View.GONE);
         }

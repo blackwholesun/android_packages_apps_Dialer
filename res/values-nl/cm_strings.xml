@@ -45,8 +45,6 @@
   <string name="call_stats_sort_by_count">Sorteren op gespreksaantal</string>
   <string name="menu_add_to_blacklist">Toevoegen aan zwarte lijst</string>
   <string name="toast_added_to_blacklist"><xliff:g id="number">%s</xliff:g> toegevoegd aan zwarte lijst</string>
-  <string name="menu_delete_from_blacklist">Uit zwarte lijst verwijderen</string>
-  <string name="toast_deleted_from_blacklist"><xliff:g id="number">%s</xliff:g> verwijderd uit zwarte lijst</string>
   <string name="nearby_places">Nabijgelegen plaatsen</string>
   <string name="people">Mensen</string>
   <string name="start_call_playback">Opname afspelen</string>
@@ -61,8 +59,8 @@
   <string name="speed_dial_replace">Vervangen</string>
   <string name="speed_dial_delete">Verwijderen</string>
   <string name="speed_dial_unassigned_dialog_title">Toets niet toegewezen</string>
-  <string name="speed_dial_unassigned_dialog_message">Geen contact toegewezen aan snelkiesnummer \'<xliff:g id="number">%s</xliff:g>\'. Wilt u nu een contact toewijzen?</string>
-  <string name="dialog_speed_dial_airplane_mode_message">"Om snelkiesnummers te gebruiken dient u eerst vliegmodus uit te schakelen."</string>
+  <string name="speed_dial_unassigned_dialog_message">Er is geen contact toegewezen aan snelkiesnummer \'<xliff:g id="number">%s</xliff:g>\'. Wilt u nu een contact toewijzen?</string>
+  <string name="dialog_speed_dial_airplane_mode_message">"Om snelkiesnummers te gebruiken dient u eerst Vliegmodus uit te schakelen."</string>
   <string name="msim_ime_dialog_title">Apparaat-ID</string>
   <string name="multi_sim_slot_name">SIM <xliff:g id="index">%d</xliff:g></string>
   <string name="call_log_show_all_slots">Alle simkaarten</string>

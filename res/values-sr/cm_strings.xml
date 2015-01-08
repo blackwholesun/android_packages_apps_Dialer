@@ -45,8 +45,6 @@
   <string name="call_stats_sort_by_count">Сортирај по броју позива</string>
   <string name="menu_add_to_blacklist">Додај на црну листу</string>
   <string name="toast_added_to_blacklist"><xliff:g id="number">%s</xliff:g> додат на црну листу</string>
-  <string name="menu_delete_from_blacklist">Брисање из црне листе</string>
-  <string name="toast_deleted_from_blacklist"><xliff:g id="number">%s</xliff:g> обрисано из црне листе</string>
   <string name="nearby_places">Оближња места</string>
   <string name="people">Особе</string>
   <string name="start_call_playback">Пусти снимак</string>
@@ -61,7 +59,7 @@
   <string name="speed_dial_replace">Замени</string>
   <string name="speed_dial_delete">Избриши</string>
   <string name="speed_dial_unassigned_dialog_title">Тастер недодељен</string>
-  <string name="speed_dial_unassigned_dialog_message">Нема додељеног брзог позивања на нумеричком тастеру \'<xliff:g id="number">%s</xliff:g>\'. Желиш ли да доделиш сада?</string>
+  <string name="speed_dial_unassigned_dialog_message">Нема додељене акције брзог бирања нумеричком тастеру \'<xliff:g id="number">%s</xliff:g>\'. Да ли желиш сада да доделиш акцију?</string>
   <string name="dialog_speed_dial_airplane_mode_message">"Да би користио брзо бирање, прво искључи режим рада у авиону."</string>
   <string name="msim_ime_dialog_title">Идентификатор уређаја</string>
   <string name="multi_sim_slot_name">SIM <xliff:g id="index">%d</xliff:g></string>

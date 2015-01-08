@@ -45,8 +45,6 @@
   <string name="call_stats_sort_by_count">Sorter etter antall samtaler</string>
   <string name="menu_add_to_blacklist">Legg til i blokkeringsliste</string>
   <string name="toast_added_to_blacklist"><xliff:g id="number">%s</xliff:g> er lagt til i svartelisten</string>
-  <string name="menu_delete_from_blacklist">Slett fra svarteliste</string>
-  <string name="toast_deleted_from_blacklist"><xliff:g id="number">%s</xliff:g> slettes fra svarteliste</string>
   <string name="nearby_places">Nærliggende steder</string>
   <string name="people">Folk</string>
   <string name="start_call_playback">Spill av opptak</string>
@@ -61,7 +59,7 @@
   <string name="speed_dial_replace">Erstatt</string>
   <string name="speed_dial_delete">Slett</string>
   <string name="speed_dial_unassigned_dialog_title">Nøkkel utilordnet</string>
-  <string name="speed_dial_unassigned_dialog_message">Ingen hurtigoppringerkontakt er tilegnet nummertasten \'<xliff:g id="number">%s</xliff:g>\'. Vil du tilegne en kontakt nå?</string>
+  <string name="speed_dial_unassigned_dialog_message">Ingen hurtigringing er angitt til denne nummertasten \'<xliff:g id="number">%s</xliff:g>\'. Vil du angi ett nå?</string>
   <string name="dialog_speed_dial_airplane_mode_message">"For å bruke hurtigoppringing må du skru av flymodus."</string>
   <string name="msim_ime_dialog_title">Enhetsidentifikator</string>
   <string name="multi_sim_slot_name">SIM <xliff:g id="index"> %d </xliff:g></string>

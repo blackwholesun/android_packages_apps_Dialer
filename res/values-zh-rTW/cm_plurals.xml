@@ -22,10 +22,4 @@
   <plurals name="minute">
     <item quantity="other">%d 分</item>
   </plurals>
-  <plurals name="second">
-    <item quantity="other">%d 秒</item>
-  </plurals>
-  <plurals name="call">
-    <item quantity="other">%d 個通話</item>
-  </plurals>
 </resources>

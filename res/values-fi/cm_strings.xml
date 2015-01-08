@@ -45,8 +45,6 @@
   <string name="call_stats_sort_by_count">Järjestä puheluiden määrän mukaan</string>
   <string name="menu_add_to_blacklist">Lisää mustalle listalle</string>
   <string name="toast_added_to_blacklist"><xliff:g id="number">%s</xliff:g> lisätty mustalle listalle</string>
-  <string name="menu_delete_from_blacklist">Poista mustalta listalta</string>
-  <string name="toast_deleted_from_blacklist"><xliff:g id="number">%s</xliff:g> poistettu mustalta listalta</string>
   <string name="nearby_places">Lähellä olevat sijainnit</string>
   <string name="people">Ihmiset</string>
   <string name="start_call_playback">Toista nauhoitus</string>
@@ -61,7 +59,7 @@
   <string name="speed_dial_replace">Korvaa</string>
   <string name="speed_dial_delete">Poista</string>
   <string name="speed_dial_unassigned_dialog_title">Näppäinta ei määritetty</string>
-  <string name="speed_dial_unassigned_dialog_message">Pikavalintaa ei asetettu numerolle \'<xliff:g id="number">%s</xliff:g>\'. Haluatko asettaa valinnan nyt?</string>
+  <string name="speed_dial_unassigned_dialog_message">Mitään pikavalintaa ei ole määritetty numerolle \'<xliff:g id="number">%s</xliff:g>\'. Haluatko määrittää tehtävän nyt?</string>
   <string name="dialog_speed_dial_airplane_mode_message">"Käyttääksesi pikavalintaa, ota lentokonetila pois käytöstä."</string>
   <string name="msim_ime_dialog_title">Laitteen tunnus</string>
   <string name="multi_sim_slot_name">SIM <xliff:g id="index">%d</xliff:g></string>

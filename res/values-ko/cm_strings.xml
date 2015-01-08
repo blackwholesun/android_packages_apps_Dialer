@@ -45,8 +45,6 @@
   <string name="call_stats_sort_by_count">통화 횟수로 정렬</string>
   <string name="menu_add_to_blacklist">블랙리스트에 추가</string>
   <string name="toast_added_to_blacklist"><xliff:g id="number">%s</xliff:g>을(를) 블랙리스트에 추가했습니다</string>
-  <string name="menu_delete_from_blacklist">블랙리스트에서 삭제</string>
-  <string name="toast_deleted_from_blacklist">블랙리스트에서 <xliff:g id="number">%s</xliff:g>을(를) 삭제했습니다</string>
   <string name="nearby_places">주변 장소</string>
   <string name="people">사람</string>
   <string name="start_call_playback">녹음 재생</string>
@@ -61,7 +59,7 @@
   <string name="speed_dial_replace">바꾸기</string>
   <string name="speed_dial_delete">삭제</string>
   <string name="speed_dial_unassigned_dialog_title">할당되지 않은 키</string>
-  <string name="speed_dial_unassigned_dialog_message">숫자 키 \'<xliff:g id="number">%s</xliff:g>\'에 스피드 다이얼 연락처가 지정되어 있지 않습니다. 지금 지정하시겠습니까?</string>
+  <string name="speed_dial_unassigned_dialog_message">\'<xliff:g id="number">%s</xliff:g>\' 키에 스피드 다이얼 동작이 할당되어 있지 않습니다. 지금 동작을 할당할까요?</string>
   <string name="dialog_speed_dial_airplane_mode_message">"스피드 다이얼을 사용하려면 비행기 모드를 해제하십시오."</string>
   <string name="msim_ime_dialog_title">장치 식별자</string>
   <string name="multi_sim_slot_name">SIM <xliff:g id="index">%d</xliff:g></string>

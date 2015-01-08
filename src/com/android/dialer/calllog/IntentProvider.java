@@ -55,7 +55,8 @@ public abstract class IntentProvider {
                         intent = new Intent(Intent.ACTION_DIAL,
                                 Uri.fromParts(CallUtil.SCHEME_SIP, number, null));
                     } else {
-                        intent = CallUtil.getCallIntent(number);
+                        intent = new Intent(Intent.ACTION_DIAL,
+                                Uri.fromParts(CallUtil.SCHEME_TEL, number, null));
                     }
                     return intent;
                 } else {
